@@ -11,3 +11,8 @@
  */
 
 /* Add custom CSS below here! */
+
+// Italicize text in blockquotes
+blockquote p {
+	font-style: italic;
+}
